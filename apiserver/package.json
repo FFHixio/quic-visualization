@@ -10,7 +10,7 @@
   "author": "jonas reynders",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.17.3"
+    "nodemon": "^1.19.4"
   },
   "dependencies": {
     "cors": "^2.8.4",
